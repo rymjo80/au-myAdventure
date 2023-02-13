@@ -13,6 +13,8 @@
 		56ADD9052995D56B00D6D205 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56ADD9032995D56B00D6D205 /* Main.storyboard */; };
 		56ADD9072995D56B00D6D205 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56ADD9062995D56B00D6D205 /* Assets.xcassets */; };
 		56ADD90A2995D56B00D6D205 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56ADD9082995D56B00D6D205 /* LaunchScreen.storyboard */; };
+		56ADD91229972CB000D6D205 /* adventureLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56ADD91129972CB000D6D205 /* adventureLogic.swift */; };
+		56ADD91429972D3E00D6D205 /* adventure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56ADD91329972D3E00D6D205 /* adventure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		56ADD9062995D56B00D6D205 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56ADD9092995D56B00D6D205 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56ADD90B2995D56B00D6D205 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56ADD91129972CB000D6D205 /* adventureLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventureLogic.swift; sourceTree = "<group>"; };
+		56ADD91329972D3E00D6D205 /* adventure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventure.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		56ADD8FC2995D56B00D6D205 /* au-myAdventure */ = {
 			isa = PBXGroup;
 			children = (
+				56ADD91129972CB000D6D205 /* adventureLogic.swift */,
+				56ADD91329972D3E00D6D205 /* adventure.swift */,
 				56ADD8FD2995D56B00D6D205 /* AppDelegate.swift */,
 				56ADD8FF2995D56B00D6D205 /* SceneDelegate.swift */,
 				56ADD9012995D56B00D6D205 /* ViewController.swift */,
@@ -139,8 +145,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				56ADD9022995D56B00D6D205 /* ViewController.swift in Sources */,
+				56ADD91429972D3E00D6D205 /* adventure.swift in Sources */,
 				56ADD8FE2995D56B00D6D205 /* AppDelegate.swift in Sources */,
 				56ADD9002995D56B00D6D205 /* SceneDelegate.swift in Sources */,
+				56ADD91229972CB000D6D205 /* adventureLogic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

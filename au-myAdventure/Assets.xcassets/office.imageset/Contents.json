@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "jose-losada-DyFjxmHt3Es-unsplash@0.33x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "jose-losada-DyFjxmHt3Es-unsplash@0.5x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "jose-losada-DyFjxmHt3Es-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

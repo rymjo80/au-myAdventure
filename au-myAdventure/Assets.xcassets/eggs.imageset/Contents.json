@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "gabriel-gurrola-CxSIQqRnrns-unsplash@0.33x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "gabriel-gurrola-CxSIQqRnrns-unsplash@0.5x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "gabriel-gurrola-CxSIQqRnrns-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

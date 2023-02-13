@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ghiffari-haris-eq_JhCNUiTE-unsplash@0.33x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ghiffari-haris-eq_JhCNUiTE-unsplash@0.5x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ghiffari-haris-eq_JhCNUiTE-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
